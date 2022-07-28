@@ -1,4 +1,4 @@
-# dabian_autologin
+# debian_autologin
 Bash Script um bei neuen Ubuntu Servern einen Autologin anzulegen.
 
 1. Kopieren
